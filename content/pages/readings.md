@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a detailed list of the readings required for each
+  weekly session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
