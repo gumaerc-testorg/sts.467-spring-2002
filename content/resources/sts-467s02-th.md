@@ -4,11 +4,12 @@ description: Deployment of an autonomous underwater vehicle (AUV) during an expe
   to the Aegean Sea in 2001 by the MIT Deepwater Archaeology Research Group. (Photo
   by David Mindell.)
 file: /courses/sts-467-research-seminar-in-deep-sea-archaeology-spring-2002/bfcf266191157cbb8f6447bbc574f4ae_sts-467s02-th.jpg
+file_size: 7009
 file_type: image/jpeg
 image_metadata:
   caption: Deployment of an autonomous underwater vehicle (AUV) during an expedition
-    to the Aegean Sea in 2001 by the [MIT Deepwater Archaeology Research Group](http://web.mit.edu/deeparch/www/home/index.html).
-    (Photo by David Mindell.)
+    to the Aegean Sea in 2001 by the {{% resource_link "c8310e27-c77b-4bda-9f59-f9605911c86f"
+    "MIT Deepwater Archaeology Research Group" %}}. (Photo by David Mindell.)
   credit: ''
   image-alt: A small submarine-type vehicle being lowered into the water from a large
     ship at sunset near a rocky coast.
