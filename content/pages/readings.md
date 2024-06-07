@@ -36,7 +36,7 @@ Steffy, J. R. _Wooden Ship Building and the Interpretation of Shipwrecks_. Colle
 "Maritime archaeology," "Underwater archaeology," "Nautical archaeology," "Mary Rose," "Institute of Nautical archaeology," "Trilateration," "Baseline trilateration," "Direct Survey Method," "Airlift," "Positioning systems," "Shipwreck anthropology," "Site formation processes," "Cultural context," "Deep water sites," "Excavation", "Conservation."
 
 **For Recent Research Collaborations and Academic Resources**  
-{{% resource_link "e8190748-b3da-4eca-bf2f-dcefad982407" "http://web.mit.edu/deeparch/www/home/links.html" %}}
+[http://web.mit.edu/deeparch/www/home/links.html](http://web.mit.edu/deeparch/www/home/links.html)
 
 Week 3
 ------
@@ -47,7 +47,7 @@ Ballard, R. D. "The MEDEA/JASON remotely operated vehicle system." _Deep-Sea Res
 
 Whitcomb, L., D. Yoerger, H. Singh, and D. Mindell. "Toward Precision Robotic Maneuvering, Survey, and Manipulation in Unstructured Undersea Environments," in Y. Shirai and S. Hirose, eds. _Robotics Research: the Eighth International Symposium_, London UK, Springerverlag, 1998.
 
-Mindell, D. A., and B. Bingham. "{{% resource_link "a38cbfb5-97d8-4be9-9afe-233c79d90ab6" "A High-frequency, Narrow-beam Sub-bottom Profiler for Archaeological Applications" %}}." _OCEANS 2001: Proceedings of the 'Oceans' IEEE-MTS Conference_ (Nov. 2001).
+Mindell, D. A., and B. Bingham. "[A High-frequency, Narrow-beam Sub-bottom Profiler for Archaeological Applications](http://web.mit.edu/deeparch/www/publications/papers/MindellBingham2001a.pdf)." _OCEANS 2001: Proceedings of the 'Oceans' IEEE-MTS Conference_ (Nov. 2001).
 
 Singh, H., J. Adams, D. Mindell, and B. P. Foley. "Imaging Underwater for Archaeology." _Journal of Field Archaeology._ 27/3 (Fall), 2000. Pp. 319-328.
 
@@ -57,13 +57,13 @@ Singh, H., J. Adams, D. Mindell, and B. P. Foley. "Imaging Underwater for Archae
 
 ### Relevant Web Resources
 
-{{% resource_link "69b2f589-45a8-45f6-957b-becfe580ec9d" "Photomosaics" %}}
+[Photomosaics](http://dsl.whoi.edu/DSL/hanu/)
 
-{{% resource_link "32fb7a9b-be4e-4b3b-a042-8361e1e20313" "Sub-bottom Profiler" %}}
+[Sub-bottom Profiler](http://web.mit.edu/deeparch/www/research/subbottom.html)
 
-{{% resource_link "7e4d72c2-8d0a-4ef5-aa28-48e7d5983788" "Precision Navigation" %}}
+[Precision Navigation](http://web.mit.edu/deeparch/www/research/precisionnav.html)
 
-{{% resource_link "0d7ce222-a7ca-4cb1-97ef-f55d86b2693b" "Vehicles" %}}
+[Vehicles](http://www.whoi.edu/marops/vehicles/index.html)
 
 ### Relevant Expeditions
 
@@ -88,15 +88,15 @@ Murray, W. M. "Do Modern Winds Equal Ancient Winds?" _Mediterranean Historical R
 
 ### For DeepArch projects at Submerged Ancient Mediterranean Sites, See "Expeditions"
 
-{{% resource_link "939f558b-370e-444b-9d84-1dd44e1c7a42" "Skerki Bank 1997" %}}
+[Skerki Bank 1997](http://web.mit.edu/deeparch/www/expeditions/1997Skerki/1997Skerki.html)
 
-{{% resource_link "f8880fd3-420b-4095-8cd4-e1aa4920c870" "Ashkelon 1999" %}}
+[Ashkelon 1999](http://web.mit.edu/deeparch/www/expeditions/1999Ashkelon/1999Ashkelon.html)
 
-{{% resource_link "3e3fab58-eaef-436a-8580-572622285695" "Black Sea 2000" %}}
+[Black Sea 2000](http://web.mit.edu/deeparch/www/expeditions/2000BlackSea/2000BlackSea.html)
 
-{{% resource_link "91ae8d3d-8a0e-4d6b-8b0b-a0c936c132c5" "Ashkelon 2003" %}}
+[Ashkelon 2003](http://web.mit.edu/deeparch/www/expeditions/expeditions.html)
 
-{{% resource_link "91ae8d3d-8a0e-4d6b-8b0b-a0c936c132c5" "Black Sea 2003" %}}
+[Black Sea 2003](http://web.mit.edu/deeparch/www/expeditions/expeditions.html)
 
 Week 5
 ------
@@ -109,7 +109,7 @@ Mindell, D. A., and B. Bingham. "New Archaeological Uses of Autonomous Undersea 
 
 ### Relevant Web Resources
 
-{{% resource_link "840fa0d3-2b04-4d51-a4ec-00443baa0c82" "AUVs" %}}
+[AUVs](http://web.mit.edu/deeparch/www/expeditions/2001Aegean/2001Aegean.html)
 
 Week 6
 ------
@@ -138,7 +138,7 @@ Wachsmann, S. _Seagoing ships and seamanship in the Bronze Age Levant._ College 
 
 ### Relevant Web Resources
 
-{{% resource_link "d377cf1e-318d-4f48-b463-bd8b17d58221" "INA Projects Web-site (click on \"Virtual Museum\")" %}}
+[INA Projects Web-site (click on "Virtual Museum")](http://nautarch.tamu.edu/)
 
 Week 7
 ------
@@ -157,7 +157,7 @@ Davis, E. N. "The Iconography of the Ship Fresco from Thera." In _Ancient Greek 
 
 ### Relevant Web Resources
 
-{{% resource_link "7f273c97-ea3e-4327-853c-6b4bf94405ae" "The Prehistoric Archaeology of the Aegean" %}}
+[The Prehistoric Archaeology of the Aegean](http://www.dartmouth.edu/~prehistory/aegean/)
 
 Week 8
 ------
@@ -240,7 +240,7 @@ McCann, A. M. "An Early Imperial Shipwreck in the Deep Sea off Skerki Bank." _Re
 
 ### Relevant Web Resources
 
-{{% resource_link "939f558b-370e-444b-9d84-1dd44e1c7a42" "Skerki Bank" %}}
+[Skerki Bank](http://web.mit.edu/deeparch/www/expeditions/1997Skerki/1997Skerki.html)
 
 Week 13
 -------
@@ -257,10 +257,10 @@ Encyclopedia: "Cultural Resources Management," "Abandoned Shipwreck Act," "ICOMO
 
 ### Relevant Web Resources
 
-{{% resource_link "cf91f2a4-59a9-47a8-843a-4edd36a299a0" "Submerged Resources Center (NPS/Dept Interior)" %}}
+[Submerged Resources Center (NPS/Dept Interior)](http://www.nps.gov/submerged/)
 
-{{% resource_link "6b14ca18-3f38-4ee5-8d84-a8284e8198b8" "\"Submerged Cultural Resources Study: USS Arizona\" by D. H. Lenihan (1989)" %}}
+["Submerged Cultural Resources Study: USS Arizona" by D. H. Lenihan (1989)](https://www.nps.gov/parkhistory/online_books/usar/scrs/scrs.htm)
 
 ### Conservation and Management of Cult:
 
-MIT WORLD video, "{{% resource_link "708a6979-19e3-408f-b2b9-da45af2afe12" "Civil War High Tech" %}}"
+MIT WORLD video, "[Civil War High Tech](http://techtv.mit.edu/videos/15874-civil-war-high-tech-excavating-the-hunley-and-monitor)"
